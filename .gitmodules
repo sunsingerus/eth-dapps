@@ -1,0 +1,6 @@
+[submodule "eth-dapp-voting"]
+	path = eth-dapp-voting
+	url = https://github.com/sunsingerus/eth-dapp-voting
+[submodule "eth-dapp-petshop"]
+	path = eth-dapp-petshop
+	url = https://github.com/sunsingerus/eth-dapp-petshop
