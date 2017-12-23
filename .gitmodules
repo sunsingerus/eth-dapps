@@ -4,3 +4,6 @@
 [submodule "eth-dapp-petshop"]
 	path = eth-dapp-petshop
 	url = https://github.com/sunsingerus/eth-dapp-petshop
+[submodule "eth-erc20-token"]
+	path = eth-erc20-token
+	url = https://github.com/sunsingerus/eth-erc20-token
