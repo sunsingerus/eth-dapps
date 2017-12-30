@@ -7,3 +7,6 @@
 [submodule "eth-erc20-token"]
 	path = eth-erc20-token
 	url = https://github.com/sunsingerus/eth-erc20-token
+[submodule "eth-erc721-token"]
+	path = eth-erc721-token
+	url = https://github.com/sunsingerus/eth-erc721-token
